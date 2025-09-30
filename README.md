@@ -1,6 +1,7 @@
 # PDF Document-Based Question Answering System
 
 This project is a professional template for a PDF Document QA chatbot using LangChain, Llama, and ChromaDB. It allows you to upload academic PDFs and ask natural language questions about their content through a simple web interface.
+<img width="790" height="371" alt="5" src="https://github.com/user-attachments/assets/294f82fd-c613-4c4c-9d31-5b68759ae568" />
 
 ## Features
 
